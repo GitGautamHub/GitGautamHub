@@ -19,10 +19,10 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="vertical-align: middle;" />
     LinkedIn
   </a>
-  <a href="https://www.leetcode.com/gautamk_01" target="_blank" style="display: inline-block; padding: 8px 12px; background-color: #FFA116; color: white; border-radius: 5px; text-decoration: none;">
+<!--   <a href="https://www.leetcode.com/gautamk_01" target="_blank" style="display: inline-block; padding: 8px 12px; background-color: #FFA116; color: white; border-radius: 5px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="vertical-align: middle;" />
     LeetCode
-  </a>
+  </a> -->
 </p>
 
 ## 💻 **Tech Stack** :
