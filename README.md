@@ -62,5 +62,5 @@
 <p align="center">
 <a href="https://linkedin.com/in/gautamkumar111103"><img src="https://img.shields.io/badge/-Gautam%20Kumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:gautamk8760@gmail.com"><img src="https://img.shields.io/badge/-gautamk8760@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/gautamk8760"><img src="https://img.shields.io/badge/-@gitgautamhub-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/gautamk8760"><img src="https://img.shields.io/badge/-@gautamk8760-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
