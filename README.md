@@ -42,16 +42,20 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+<!-- ### ⚙️ &nbsp;GitHub Analytics -->
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/gitgautamhub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gitgautamhub&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitgautamhub&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+  <img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=gitgautamhub&show_icons=true&theme=algolia&include_all_commits=true&cache_seconds=86400"/>
 
-### 🤝🏻 &nbsp;Connect with Me
+  <img height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitgautamhub&layout=compact&langs_count=8&theme=algolia&cache_seconds=86400"/>
+
+</a>
+</p> -->
+
+###  &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://linkedin.com/in/gautamkumar111103"><img src="https://img.shields.io/badge/-Gautam%20Kumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
